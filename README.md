@@ -95,5 +95,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Project Link: [https://github.com/Transcom-Electronics-Ltd/CJDocs](https://github.com/Transcom-Electronics-Ltd/CJDocs)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
